@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "name": "Curso React",
+            "budget": 1200,
+            "category": {
+                "id": "1",
+                "category_name": "Infra"
+            },
+            "cost": 545,
+            "tags": [],
+            "services": [
+                {
+                    "cost": 300,
+                    "service_name": "Teste Servico 3",
+                    "description": "Descricao bem longa meu",
+                    "id": "8bb5132d-2e47-48d2-98c4-a0a4ce2724e4"
+                },
+                {
+                    "cost": 200,
+                    "service_name": "DescricaoLonga",
+                    "description": "Descricao",
+                    "id": "c12358bb-d899-4bf9-b862-8df6e257853f"
+                },
+                {
+                    "cost": 11,
+                    "service_name": "asda",
+                    "zzzzzz": "asdad",
+                    "description": "Descricao",
+                    "id": "97e55dbe-10f6-4fd0-b349-4441fff759a8"
+                },
+                {
+                    "cost": 22,
+                    "zzzzzz": "asdad",
+                    "service_name": "Teste Servico",
+                    "description": "Deacasd",
+                    "id": "e50fa5b1-38b8-424f-a2f1-498c131f25b5"
+                },
+                {
+                    "service_name": "Teste Servico",
+                    "cost": 12,
+                    "zzzzzz": "asdad",
+                    "description": "Deacasd",
+                    "id": "41e2a135-6d41-46d6-a66c-a4f091bfdac8"
+                }
+            ],
+            "lastTimeModified": "Sun Jan 30 2022 10:15:20 GMT-0300 (Brasilia Standard Time)",
+            "createDate": "s",
+            "id": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "category_name": "Infra"
+        },
+        {
+            "id": 2,
+            "category_name": "Desenvolvimento"
+        },
+        {
+            "id": 3,
+            "category_name": "Design"
+        },
+        {
+            "id": 4,
+            "category_name": "Planejamento"
+        }
+    ]
+}

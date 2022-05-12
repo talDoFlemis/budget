@@ -1,0 +1,17 @@
+.logo{
+    font-size: 20em;
+    animation-name: rotate_ace;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    transform-origin: 50% 50%;
+    display: inline-block;
+}
+
+@keyframes rotate_ace {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

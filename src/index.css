@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .default_button {
+        @apply bg-primary rounded-lg duration-300;
+        @apply hover:cursor-pointer hover:bg-[#fff] hover:text-primary;
+    }
+    .hover_primary {
+        @apply hover:text-primary hover:cursor-pointer duration-300;
+    }
+}
+
+#root {
+    background-color: #ede9e6;
+    min-height: 100vh;
+}
